@@ -1,0 +1,12 @@
+.table-sortable th,
+.table-sortable td {
+    padding: 12px 12px;
+}
+
+.table-sortable th {
+    font-size: 1.2em;
+}
+
+.table-sortable td {
+    font-size: 1.2em;
+}
